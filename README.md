@@ -130,3 +130,16 @@ Linux administrators and Cloud/DevOps engineers use automated health checks to i
 * Configurable thresholds
 * Monitoring multiple servers
 * CloudWatch integration
+## 📸 Screenshots
+
+### Health Monitor Output
+
+![Health Monitor Output](health-monitor-output.png)
+
+### Automated Reports and Cron
+
+![Reports and Cron](reports-and-cron.png)
+
+### Project Structure
+
+![Project Structure](project-structure.png)
